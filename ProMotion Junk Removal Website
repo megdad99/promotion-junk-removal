@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProMotion Junk Removal | Fast & Affordable Hauling - 859-777-5555</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Use the Inter font family -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0d0d0d; /* Dark background */
+        }
+        /* Custom Gold Color */
+        .text-gold { color: #FFD700; }
+        .bg-gold { background-color: #FFD700; }
+        .border-gold { border-color: #FFD700; }
+        .hero-bg {
+            background-image: url('https://placehold.co/1200x800/1a1a1a/FFD700?text=PROMOTION+JUNK+REMOVAL+TRUCK+FLEET');
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body class="text-gray-100">
+
+    <!-- Header & Navigation -->
+    <header class="sticky top-0 z-50 bg-black bg-opacity-95 shadow-lg border-b border-gold/20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+            <!-- Logo/Brand -->
+            <div class="flex items-center space-x-2">
+                <span class="text-gold text-3xl font-extrabold tracking-tight">PM</span>
+                <span class="text-lg font-semibold uppercase">Junk Removal</span>
+            </div>
+            <!-- Call to Action Button (visible on all screens) -->
+            <a href="tel:8597775555" 
+               class="bg-gold text-black font-bold py-2 px-4 rounded-lg shadow-xl hover:bg-yellow-400 transition duration-300 text-sm md:text-base">
+                📞 CALL NOW: 859-777-5555
+            </a>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <main class="hero-bg py-20 md:py-32 relative">
+        <div class="absolute inset-0 bg-black opacity-60"></div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="max-w-3xl">
+                <p class="text-lg md:text-xl text-gold mb-2 uppercase font-semibold">Fast & Affordable Hauling</p>
+                <h1 class="text-5xl md:text-7xl font-extrabold leading-tight text-white mb-6">
+                    Reclaim Your Space. <span class="text-gold block sm:inline">ProMotion Junk Removal.</span>
+                </h1>
+                <p class="text-xl md:text-2xl text-gray-300 mb-8">
+                    We do the heavy lifting. Free, upfront estimates with same-day/next-day availability. Professional service, honest pricing, and fast response guaranteed.
+                </p>
+                <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
+                    <a href="#services" class="bg-gold text-black text-lg font-bold py-3 px-8 rounded-xl shadow-2xl transition duration-300 hover:bg-yellow-400 transform hover:scale-105 text-center">
+                        See All Services
+                    </a>
+                    <a href="tel:8597775555" class="bg-gray-800 border-2 border-gold text-white text-lg font-bold py-3 px-8 rounded-xl shadow-2xl transition duration-300 hover:bg-gray-700 transform hover:scale-105 text-center">
+                        Get a FREE Quote
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Services Section -->
+    <section id="services" class="py-16 md:py-24 bg-[#1a1a1a]">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-4xl font-bold text-center text-white mb-4">What We Haul</h2>
+            <p class="text-xl text-center text-gray-400 mb-12 max-w-2xl mx-auto">
+                Full-service removal means we take care of everything, from single items to full property clear-outs.
+            </p>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Service Card 1: Furniture -->
+                <div class="bg-[#242424] p-6 rounded-xl shadow-xl border border-gray-700 hover:border-gold transition duration-300 transform hover:scale-[1.02]">
+                    <div class="text-4xl text-gold mb-3">🛋️</div>
+                    <h3 class="text-2xl font-semibold mb-2 text-white">Furniture & Mattresses</h3>
+                    <ul class="space-y-1 text-gray-300 list-inside">
+                        <li>✅ Sofas, Loveseats, Recliners</li>
+                        <li>✅ Beds, Frames, Mattresses</li>
+                        <li>✅ Tables, Chairs, Dressers</li>
+                    </ul>
+                </div>
+
+                <!-- Service Card 2: Appliances -->
+                <div class="bg-[#242424] p-6 rounded-xl shadow-xl border border-gray-700 hover:border-gold transition duration-300 transform hover:scale-[1.02]">
+                    <div class="text-4xl text-gold mb-3">🧺</div>
+                    <h3 class="text-2xl font-semibold mb-2 text-white">Appliances & E-Waste</h3>
+                    <ul class="space-y-1 text-gray-300 list-inside">
+                        <li>✅ Washers, Dryers, Refrigerators</li>
+                        <li>✅ Old TVs, Computers, Electronics</li>
+                        <li>✅ Water Heaters & HVAC Units</li>
+                    </ul>
+                </div>
+
+                <!-- Service Card 3: Debris & Waste -->
+                <div class="bg-[#242424] p-6 rounded-xl shadow-xl border border-gray-700 hover:border-gold transition duration-300 transform hover:scale-[1.02]">
+                    <div class="text-4xl text-gold mb-3">🚧</div>
+                    <h3 class="text-2xl font-semibold mb-2 text-white">Debris & Property Cleanouts</h3>
+                    <ul class="space-y-1 text-gray-300 list-inside">
+                        <li>✅ Construction & Yard Debris</li>
+                        <li>✅ Garage, Basement, Attic Clean-outs</li>
+                        <li>✅ Foreclosure & Storage Unit Clear-outs</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us Section -->
+    <section class="py-16 md:py-24 bg-[#0d0d0d]">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="md:flex md:items-center md:space-x-12">
+                <div class="md:w-1/2 mb-10 md:mb-0">
+                    <img src="https://placehold.co/600x400/292929/FFD700?text=PM+TEAM+IN+ACTION" 
+                         alt="ProMotion Junk Removal team working" 
+                         class="rounded-xl shadow-2xl border-4 border-gold/50" loading="lazy">
+                </div>
+                <div class="md:w-1/2">
+                    <h2 class="text-4xl font-bold text-white mb-6">Why Choose ProMotion?</h2>
+                    <p class="text-xl text-gray-300 mb-8">
+                        We are dedicated to providing professional, honest, and environmentally responsible service to our community.
+                    </p>
+                    <ul class="space-y-5">
+                        <li class="flex items-start">
+                            <span class="text-gold text-2xl mr-3 font-extrabold">✓</span>
+                            <div>
+                                <h4 class="text-xl font-semibold text-white">Upfront, FREE Quotes</h4>
+                                <p class="text-gray-400">Simple, transparent pricing with no hidden fees.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-gold text-2xl mr-3 font-extrabold">✓</span>
+                            <div>
+                                <h4 class="text-xl font-semibold text-white">Eco-Conscious Disposal</h4>
+                                <p class="text-gray-400">We prioritize recycling and donation to keep items out of landfills.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-gold text-2xl mr-3 font-extrabold">✓</span>
+                            <div>
+                                <h4 class="text-xl font-semibold text-white">Licensed & Insured</h4>
+                                <p class="text-gray-400">Professional, uniformed crew providing dependable service.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form Section -->
+    <section id="contact" class="py-16 md:py-24 bg-[#1a1a1a]">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-4xl font-bold text-center text-white mb-4">Get a FREE Quote Instantly</h2>
+            <p class="text-xl text-center text-gray-400 mb-12">
+                Fill out the form below or call us directly at 859-777-5555.
+            </p>
+            
+            <!-- Contact Form -->
+            <!-- NOTE: For a functional website, replace action="mailto:..." with a dedicated form submission endpoint (e.g., from Formspree, a hosting provider, or your own backend). -->
+            <form action="mailto:your_email@example.com" method="post" enctype="text/plain" class="space-y-6 bg-[#242424] p-8 rounded-xl shadow-2xl border border-gray-700">
+                
+                <div>
+                    <label for="name" class="block text-sm font-medium text-gray-300 mb-1">Your Name</label>
+                    <input type="text" id="name" name="name" required
+                           class="w-full p-3 rounded-lg bg-gray-700 border border-gray-600 text-white focus:ring-gold focus:border-gold transition duration-150">
+                </div>
+
+                <div>
+                    <label for="phone" class="block text-sm font-medium text-gray-300 mb-1">Phone Number (Required)</label>
+                    <input type="tel" id="phone" name="phone" required
+                           class="w-full p-3 rounded-lg bg-gray-700 border border-gray-600 text-white focus:ring-gold focus:border-gold transition duration-150">
+                </div>
+
+                <div>
+                    <label for="message" class="block text-sm font-medium text-gray-300 mb-1">Details of Your Junk (e.g., Garage Cleanout, Old Sofa, Debris)</label>
+                    <div class="relative">
+                        <textarea id="message" name="message" rows="4" required
+                                  class="w-full p-3 rounded-lg bg-gray-700 border border-gray-600 text-white focus:ring-gold focus:border-gold transition duration-150"></textarea>
+                        
+                        <!-- NEW GEMINI API FEATURE BUTTON -->
+                        <button type="button" id="generateDescriptionBtn" onclick="handleGeminiFeature()"
+                                class="mt-2 bg-gray-600 text-gold font-bold py-2 px-4 rounded-lg text-sm hover:bg-gray-500 transition duration-300 flex items-center justify-center shadow-md">
+                            ✨ Auto-Detail Junk List
+                        </button>
+                        <div id="loadingIndicator" class="mt-2 text-gold text-sm font-medium hidden">
+                            Generating detailed list...
+                        </div>
+                        <div id="errorMessage" class="mt-2 text-red-400 text-sm font-medium hidden"></div>
+                        <!-- END NEW GEMINI API FEATURE -->
+                    </div>
+                </div>
+
+                <button type="submit" 
+                        class="w-full bg-gold text-black font-extrabold py-3 rounded-xl shadow-lg hover:bg-yellow-400 transition duration-300 transform hover:scale-[1.01]">
+                    SUBMIT FREE QUOTE REQUEST
+                </button>
+            </form>
+            <p class="mt-4 text-center text-gray-500 text-sm">We typically respond within 1-2 hours.</p>
+        </div>
+    </section>
+
+    <!-- Call to Action Footer -->
+    <section class="bg-gold py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center text-black">
+            <h2 class="text-3xl font-extrabold mb-4 md:mb-0">Ready to Get Started?</h2>
+            <a href="tel:8597775555" 
+               class="bg-black text-gold font-extrabold py-4 px-10 rounded-xl shadow-2xl text-xl hover:bg-gray-800 transition duration-300 transform hover:scale-105">
+                📞 CALL US NOW: 859-777-5555
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-black py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-500 text-sm">
+            &copy; 2024 ProMotion Junk Removal. All rights reserved. | Serving the [Your Service Area] Community.
+        </div>
+    </footer>
+
+    <!-- Gemini API and Feature Logic -->
+    <script>
+        const GEMINI_MODEL = 'gemini-2.5-flash-preview-09-2025';
+
+        // Utility function for robust API calls
+        async function fetchWithExponentialBackoff(url, options, maxRetries = 5) {
+            for (let attempt = 0; attempt < maxRetries; attempt++) {
+                try {
+                    const response = await fetch(url, options);
+                    if (!response.ok) {
+                        if (response.status === 429 && attempt < maxRetries - 1) {
+                            // Retry logic for rate limiting
+                            const delay = Math.pow(2, attempt) * 1000 + Math.random() * 1000;
+                            console.warn(`Rate limit hit, retrying in ${delay / 1000}s...`);
+                            await new Promise(resolve => setTimeout(resolve, delay));
+                            continue; 
+                        }
+                        throw new Error(`API request failed with status: ${response.status}`);
+                    }
+                    return response;
+                } catch (error) {
+                    if (attempt === maxRetries - 1) {
+                        throw error; 
+                    }
+                    const delay = Math.pow(2, attempt) * 1000 + Math.random() * 1000;
+                    console.warn(`Fetch error: ${error.message}. Retrying in ${delay / 1000}s...`);
+                    await new Promise(resolve => setTimeout(resolve, delay));
+                }
+            }
+        }
+
+        async function generateDetailedDescription() {
+            const apiKey = ""; // API key is provided at runtime in this environment
+            const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
+
+            const messageInput = document.getElementById('message');
+            const loadingIndicator = document.getElementById('loadingIndicator');
+            const errorMessage = document.getElementById('errorMessage');
+            const button = document.getElementById('generateDescriptionBtn');
+
+            const userDescription = messageInput.value.trim();
+            if (userDescription === "") {
+                errorMessage.textContent = 'Please enter a brief description first (e.g., "old furniture in basement").';
+                errorMessage.classList.remove('hidden');
+                return;
+            }
+
+            // Set UI state to loading
+            button.disabled = true;
+            button.textContent = 'Generating...';
+            button.classList.remove('bg-gray-600');
+            button.classList.add('bg-gray-800');
+            loadingIndicator.classList.remove('hidden');
+            errorMessage.classList.add('hidden');
+
+            const systemPrompt = "You are an expert junk removal estimator. Your task is to take a brief, casual description of junk items and expand it into a detailed, itemized list suitable for generating a removal quote. The list MUST be categorized into headers like 'Large Furniture', 'Appliances', 'Debris', etc., and clearly formatted for easy reading. Do NOT invent items the user didn't mention, but categorize and structure the existing description professionally. If the user mentions a specific location (like 'garage'), include that context. The final output must be only the categorized list.";
+            const userQuery = `Expand and categorize this junk description into a professional quote item list:\n\nOriginal Description: "${userDescription}"`;
+            
+            const payload = {
+                contents: [{ parts: [{ text: userQuery }] }],
+                systemInstruction: { parts: [{ text: systemPrompt }] },
+            };
+
+            try {
+                const response = await fetchWithExponentialBackoff(apiUrl, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+
+                const result = await response.json();
+                const generatedText = result.candidates?.[0]?.content?.parts?.[0]?.text;
+
+                if (generatedText) {
+                    // Prepend the new text to the existing input for review
+                    messageInput.value = `*** Detailed Estimate Suggestion (Powered by AI) ***\n${generatedText}\n\n--- Original Request ---\n${userDescription}`;
+                    
+                    // Give visual feedback
+                    button.textContent = '✨ List Detailed!';
+                    setTimeout(() => {
+                        button.textContent = '✨ Auto-Detail Junk List';
+                    }, 3000);
+                } else {
+                    errorMessage.textContent = 'Error: Could not generate description. Please try again.';
+                    errorMessage.classList.remove('hidden');
+                }
+
+            } catch (error) {
+                console.error('Gemini API Error:', error);
+                errorMessage.textContent = 'API connection error. Please call us directly for a quote.';
+                errorMessage.classList.remove('hidden');
+            } finally {
+                // Reset UI state
+                button.disabled = false;
+                button.classList.add('bg-gray-600');
+                button.classList.remove('bg-gray-800');
+                loadingIndicator.classList.add('hidden');
+                if (button.textContent === 'Generating...') {
+                     button.textContent = '✨ Auto-Detail Junk List';
+                }
+            }
+        }
+
+        // Function alias for onclick
+        function handleGeminiFeature() {
+            generateDetailedDescription();
+        }
+    </script>
+</body>
+</html>
